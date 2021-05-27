@@ -1,0 +1,34 @@
+bryanrodriguezrios repasogit1 >> git tag -a v1.5 -m "Rodriguez-RIOS-paso51" f9adb  
+bryanrodriguezrios repasogit1 >> git show v1.5
+tag v1.5
+Tagger: Bryan Rodriguez <bryan.rodriguezrios@educamadrid.org>
+Date:   Thu May 27 13:48:44 2021 +0200
+
+Rodriguez-RIOS-paso51
+
+commit f9adbc99aa9bebcc665e62685d50dcf142890429 (tag: v1.5)
+Author: Bryan Rodriguez <bryan.rodriguezrios@educamadrid.org>
+Date:   Thu May 27 13:19:31 2021 +0200
+
+    añadidad respuestas ejercicio 1.4
+
+diff --git a/repasogit1/prueba/README.md b/repasogit1/prueba/README.md
+new file mode 100644
+index 0000000..86c4e7a
+--- /dev/null
++++ b/repasogit1/prueba/README.md
+@@ -0,0 +1,2 @@
++# prueba
++es una prueba
+diff --git a/repasogit1/respuestas/ejercicio1.4.text b/repasogit1/respuestas/ejercicio1.4.text
+new file mode 100644
+index 0000000..c8461cf
+--- /dev/null
++++ b/repasogit1/respuestas/ejercicio1.4.text
+@@ -0,0 +1,2 @@
++git status
++git log
+
+
+git merge rama 
+
